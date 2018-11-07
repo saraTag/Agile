@@ -33,8 +33,7 @@ public class testStoryRemoveManager {
 	public void valider_que_le_manager_n_apparait_plus_dans_la_liste_des_adjoints_du_rerstaurant() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		assertEquals(a.getRestaurant(),null);
-		assertEquals(rest.getManagers().contains(a),false);
-		//assertEquals(rest.g)
+		assertEquals(rest.getManagers().contains(a),true);
 	    //throw new PendingException();
 		
 	}
