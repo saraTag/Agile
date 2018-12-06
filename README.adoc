@@ -1,1 +1,2 @@
 # Agile
+[![Build Status](https://travis-ci.com/saraTag/Projet_Agile.svg?branch=master)](https://travis-ci.com/saraTag/Projet_Agile)
